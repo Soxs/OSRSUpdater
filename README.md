@@ -5,7 +5,6 @@ Probably no longer works, but could be a good resource for someone trying to lea
 # Example Log:
 (which is quite old, it now has deobfuscation etc)
 
-Log:
 ```
 Starting OSRS Updater.
 Finished loading 230 classes in 671ms from: gamepack#103.jar
