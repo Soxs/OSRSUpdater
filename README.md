@@ -2,7 +2,7 @@
 A hook updater for OSRS which uses bytecode patterns and ASM for identification.  
 Probably no longer works, but could be a good resource for someone trying to learn.
 
-Example Log (Quite old, it now has deobfuscation etc):
+Example Log which is quite old, it now has deobfuscation etc
 ```
 Starting OSRS Updater.
 Finished loading 230 classes in 671ms from: gamepack#103.jar
