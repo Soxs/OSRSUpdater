@@ -1,6 +1,7 @@
 # OSRSUpdater
 A hook updater for OSRS which uses bytecode patterns and ASM for identification.  
 Probably no longer works, but could be a good resource for someone trying to learn.
+Credits: Kevboi
 
 # Example Log:
 (which is quite old, it now has deobfuscation etc)
